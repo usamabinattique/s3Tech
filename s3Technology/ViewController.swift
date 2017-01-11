@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print ("y")
+        
+        
+        print (" this is january")
     }
 
     override func didReceiveMemoryWarning() {
